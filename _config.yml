@@ -5,7 +5,7 @@ title: Arman Shafiei
 url: 'https://arman-shafiei.github.io'
 
 # Leave it default
-baseurl: 'main' 
+baseurl: 'https://arman-shafiei.github.io' 
 
 # Google Analytics
 #ga_index: UA-XXXXXXXX-X
