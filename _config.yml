@@ -5,7 +5,7 @@ title: Arman Shafiei
 url: 'https://arman-shafiei.github.io'
 
 # Leave it default
-baseurl: '' 
+baseurl: 'main' 
 
 # Google Analytics
 #ga_index: UA-XXXXXXXX-X
@@ -24,7 +24,7 @@ github: arman-shafiei
 #twitter: '@realmelvinchng'
 
 # Files or folders to be excluded
-exclude: gitbook/
+#exclude: gitbook/
 
 # All the plugins for Jekyll
 plugins:
