@@ -1,5 +1,5 @@
 _site/
-.jekyll-cache/
-.htaccess
-_config.yml
-.DS_Store
+.sass-cache/
+.jekyll-metadata
+gitbook_source_code/node_modules
+gitbook_source_code/_book
