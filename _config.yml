@@ -1,32 +1,36 @@
-# Your Website Title
-title: Melvin Ch'ng
+# Site settings
+title: Arman Shafiei
+description: 'Github Page'
+url: 'https://arman-shafiei.github.io/about'
+baseurl: ''
+profilepic: '/images/tzuehlke.jpg'
+bkimage: '/images/bk1.jpg'
+google_analytics: UA-XXXXXX-X
+font_awesome: 'XXXXXXXXXX.js'
 
-# Your Website URL
-url: 'http://your-url.github.io'
+author:
+  name: 'Arman Shafiei'
+  email: armanshafeie77@gmail.com
+  #    twitter_username: thomzuehlke
+  #    facebook_username: joshgerdes
+  github_username:  arman-shafiei
+  linkedin_username: armanshafeie77@gmail.com
+  #  meetup_name: Azure-Meetup-Rostock-MV
 
-# Leave it default
-baseurl: '' 
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
 
-# Google Analytics
-ga_index: UA-XXXXXXXX-X
-ga_cv: UA-XXXXXXXX-X
+sass:
+    sass_dir: _sass
+    style: compressed
 
-# Index page and Profile Information
-name: Melvin Ch'ng
-tagline: Software Developer, IoT, Reverse Engineering
-pic: profile.png # profile.png can be found at /assets/images/profile.png
-description: Full Stack Developer, IoT, Reverse Engineering
-description_tiny: 'Home: +60-4 | Studied: +1-408 | Work: +60-3'
-email: you.email.email@gmail.com
-website: melvinchng.github.io # do not add http://
-linkedin: realmelvinchng
-github: melvinchng
-twitter: '@realmelvinchng'
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
 
-# Files or folders to be excluded
-exclude: [gitbook_source_code/]
-
-# All the plugins for Jekyll
-plugins:
-  - jekyll-sitemap
-  - wdm
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'screenshot-overview.png']
