@@ -14,7 +14,7 @@ baseurl: ''
 # Index page and Profile Information
 name: Arman Shafiei
 tagline: DevOps Engineer
-pic: profile.png # profile.png can be found at /assets/images/profile.png
+pic: profile.jpg # profile.png can be found at /assets/images/profile.png
 description: DevOps Engineer
 #description_tiny: 'Home: +60-4 | Studied: +1-408 | Work: +60-3'
 email: armanshafeie77@gmail.com
