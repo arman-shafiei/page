@@ -1310,7 +1310,7 @@ hr {
 	background: none; }
 
 .btn, .navigation__item a {
-	padding: 20px 40px;
+	padding: 12px 22px;
 	border: 1px solid #e25440;
 	border-radius: 20px;
 	font-size: .9em;
@@ -1394,7 +1394,7 @@ nav {
 .navigation--social {
 	margin-left: 1.5em; }
 	.navigation--social a {
-		padding: 6px 8px 6px 9px; }
+		padding: 8px 10px 8px 11px; }
 		.navigation--social a .label {
 			display: none; }
 		.navigation--social a .icon {
