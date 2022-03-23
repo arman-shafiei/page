@@ -1310,7 +1310,7 @@ hr {
 	background: none; }
 
 .btn, .navigation__item a {
-	padding: 10px 20px;
+	padding: 20px 40px;
 	border: 1px solid #e25440;
 	border-radius: 20px;
 	font-size: .9em;
@@ -1668,7 +1668,7 @@ input[type="tel"] {
 	.navigation__item {
 		width: 100%;
 		margin: 0 0 .4em 0; } }
-@media all and (max-width: 680px) {
+@media all and (max-width: 340px) {
 	.panel-main__inner {
 		padding: 0 5%; }
 
