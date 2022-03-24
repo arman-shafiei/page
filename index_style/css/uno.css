@@ -1385,7 +1385,7 @@ nav {
 		position: relative;
 		border-color: #FFF;
 		color: #FFF;
-		opacity: 1.8; }
+		opacity: .8; }
 		.navigation__item a:hover {
 			color: #FFF;
 			border-color: #FFF;
@@ -1420,7 +1420,7 @@ i {
 	font-family: 'entypo';
 	font-weight: normal;
 	font-style: normal;
-	font-size: 18px; }
+	font-size: 38px; }
 
 .icon-social {
 	font-family: 'entypo-social';
