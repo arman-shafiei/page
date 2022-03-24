@@ -1385,7 +1385,7 @@ nav {
 		position: relative;
 		border-color: #FFF;
 		color: #FFF;
-		opacity: .8; }
+		opacity: 1.8; }
 		.navigation__item a:hover {
 			color: #FFF;
 			border-color: #FFF;
