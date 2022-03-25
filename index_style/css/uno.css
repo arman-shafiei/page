@@ -1310,7 +1310,7 @@ hr {
 	background: none; }
 
 .btn, .navigation__item a {
-	padding: 15px 30px;
+	padding: 115px 130px;
 	border: 1px solid #e25440;
 	border-radius: 20px;
 	font-size: .9em;
@@ -1424,7 +1424,7 @@ i {
 
 .icon-social {
 	font-family: 'entypo-social';
-	font-size: 122px;
+	font-size: 22px;
 	display: block;
 	position: relative; }
 
