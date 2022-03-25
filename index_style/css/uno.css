@@ -1310,7 +1310,7 @@ hr {
 	background: none; }
 
 .btn, .navigation__item a {
-	padding: 115px 130px;
+	padding: 15px 30px;
 	border: 1px solid #e25440;
 	border-radius: 20px;
 	font-size: .9em;
@@ -1339,7 +1339,7 @@ hr {
 
 .btn-large {
 	padding: 10px 24px;
-	font-size: 1.1em; }
+	font-size: 3.1em; }
 
 .btn-small {
 	padding: 8px 12px;
